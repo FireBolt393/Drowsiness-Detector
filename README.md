@@ -15,7 +15,7 @@ The project is built in Python using libraries like TensorFlow, Keras, and OpenC
 This project is designed to be run on Google Colab. Follow the steps below to set up and use the project:
 
 ### 1. **Open the Project on Google Colab**
-   - Open `Drowsiness Detector.ipynib` in google colab.
+   - Open `Drowsiness Detector.ipynb` in google colab.
    
 ### 2. **Download the Dataset and Pre-trained Model**
 
